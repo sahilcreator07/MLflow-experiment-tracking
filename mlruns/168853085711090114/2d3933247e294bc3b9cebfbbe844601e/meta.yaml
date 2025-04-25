@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sahilgupta/Desktop/Learning%20Folder/MLflow-exp-tracking/MLflow-experiment-tracking/mlruns/168853085711090114/2d3933247e294bc3b9cebfbbe844601e/artifacts
+end_time: 1745611807660
+entry_point_name: ''
+experiment_id: '168853085711090114'
+lifecycle_stage: active
+run_id: 2d3933247e294bc3b9cebfbbe844601e
+run_name: secretive-turtle-367
+run_uuid: 2d3933247e294bc3b9cebfbbe844601e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745611807655
+status: 3
+tags: []
+user_id: sahilgupta

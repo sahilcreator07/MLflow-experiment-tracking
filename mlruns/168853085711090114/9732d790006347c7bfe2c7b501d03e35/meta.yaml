@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sahilgupta/Desktop/Learning%20Folder/MLflow-exp-tracking/MLflow-experiment-tracking/mlruns/168853085711090114/9732d790006347c7bfe2c7b501d03e35/artifacts
+end_time: 1745611807634
+entry_point_name: ''
+experiment_id: '168853085711090114'
+lifecycle_stage: active
+run_id: 9732d790006347c7bfe2c7b501d03e35
+run_name: popular-doe-765
+run_uuid: 9732d790006347c7bfe2c7b501d03e35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745611807629
+status: 3
+tags: []
+user_id: sahilgupta

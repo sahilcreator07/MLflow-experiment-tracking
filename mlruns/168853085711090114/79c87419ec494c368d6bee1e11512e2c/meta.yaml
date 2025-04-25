@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sahilgupta/Desktop/Learning%20Folder/MLflow-exp-tracking/MLflow-experiment-tracking/mlruns/168853085711090114/79c87419ec494c368d6bee1e11512e2c/artifacts
+end_time: 1745611807649
+entry_point_name: ''
+experiment_id: '168853085711090114'
+lifecycle_stage: active
+run_id: 79c87419ec494c368d6bee1e11512e2c
+run_name: luminous-wolf-113
+run_uuid: 79c87419ec494c368d6bee1e11512e2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745611807645
+status: 3
+tags: []
+user_id: sahilgupta

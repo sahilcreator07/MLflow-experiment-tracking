@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sahilgupta/Desktop/Learning%20Folder/MLflow-exp-tracking/MLflow-experiment-tracking/mlruns/168853085711090114/f215036bfd6d4e29b3ea4f48ce1185e3/artifacts
+end_time: 1745611809972
+entry_point_name: ''
+experiment_id: '168853085711090114'
+lifecycle_stage: active
+run_id: f215036bfd6d4e29b3ea4f48ce1185e3
+run_name: illustrious-hawk-997
+run_uuid: f215036bfd6d4e29b3ea4f48ce1185e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745611805053
+status: 3
+tags: []
+user_id: sahilgupta

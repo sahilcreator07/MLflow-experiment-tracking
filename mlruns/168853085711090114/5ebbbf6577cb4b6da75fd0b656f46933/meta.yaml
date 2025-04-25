@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sahilgupta/Desktop/Learning%20Folder/MLflow-exp-tracking/MLflow-experiment-tracking/mlruns/168853085711090114/5ebbbf6577cb4b6da75fd0b656f46933/artifacts
+end_time: 1745611807607
+entry_point_name: ''
+experiment_id: '168853085711090114'
+lifecycle_stage: active
+run_id: 5ebbbf6577cb4b6da75fd0b656f46933
+run_name: skittish-carp-830
+run_uuid: 5ebbbf6577cb4b6da75fd0b656f46933
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745611807600
+status: 3
+tags: []
+user_id: sahilgupta

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sahilgupta/Desktop/Learning%20Folder/MLflow-exp-tracking/MLflow-experiment-tracking/mlruns/168853085711090114/977df3d869ba4256b1abecf4cf2ff54f/artifacts
+end_time: 1745611807624
+entry_point_name: ''
+experiment_id: '168853085711090114'
+lifecycle_stage: active
+run_id: 977df3d869ba4256b1abecf4cf2ff54f
+run_name: illustrious-lark-172
+run_uuid: 977df3d869ba4256b1abecf4cf2ff54f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745611807619
+status: 3
+tags: []
+user_id: sahilgupta

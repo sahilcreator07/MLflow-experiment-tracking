@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/903119733930711898/5eadc04c452e4458abacd6f9038ea47f/artifacts
+end_time: 1745609679414
+entry_point_name: ''
+experiment_id: '903119733930711898'
+lifecycle_stage: active
+run_id: 5eadc04c452e4458abacd6f9038ea47f
+run_name: agreeable-shoat-895
+run_uuid: 5eadc04c452e4458abacd6f9038ea47f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745609676702
+status: 3
+tags: []
+user_id: sahilgupta

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sahilgupta/Desktop/Learning%20Folder/MLflow-exp-tracking/MLflow-experiment-tracking/mlruns/168853085711090114/d874bac562434fa691205ce709e652b4/artifacts
+end_time: 1745611807655
+entry_point_name: ''
+experiment_id: '168853085711090114'
+lifecycle_stage: active
+run_id: d874bac562434fa691205ce709e652b4
+run_name: receptive-shrew-82
+run_uuid: d874bac562434fa691205ce709e652b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745611807650
+status: 3
+tags: []
+user_id: sahilgupta

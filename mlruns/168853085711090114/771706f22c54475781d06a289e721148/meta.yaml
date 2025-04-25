@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sahilgupta/Desktop/Learning%20Folder/MLflow-exp-tracking/MLflow-experiment-tracking/mlruns/168853085711090114/771706f22c54475781d06a289e721148/artifacts
+end_time: 1745611807618
+entry_point_name: ''
+experiment_id: '168853085711090114'
+lifecycle_stage: active
+run_id: 771706f22c54475781d06a289e721148
+run_name: casual-moose-319
+run_uuid: 771706f22c54475781d06a289e721148
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745611807613
+status: 3
+tags: []
+user_id: sahilgupta

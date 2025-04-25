@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sahilgupta/Desktop/Learning%20Folder/MLflow-exp-tracking/MLflow-experiment-tracking/mlruns/168853085711090114/dfac44479caf4bc5893afd663095c821/artifacts
+end_time: 1745611807639
+entry_point_name: ''
+experiment_id: '168853085711090114'
+lifecycle_stage: active
+run_id: dfac44479caf4bc5893afd663095c821
+run_name: useful-lamb-534
+run_uuid: dfac44479caf4bc5893afd663095c821
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745611807635
+status: 3
+tags: []
+user_id: sahilgupta
